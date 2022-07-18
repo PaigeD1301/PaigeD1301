@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <h3>Hi! my name is Paige D 👋</h3>
   <h4>I am a full stack software engineer</h3>
