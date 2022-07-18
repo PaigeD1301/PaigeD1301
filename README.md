@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h3>Hi! my name is Paige D 👋</h3>
-  <h4>I am a full stack software engineer</h3>
+  <h4>I am a full-stack software engineer</h3>
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150"/>
   
   <div id="badges">
